@@ -1,0 +1,12 @@
+{
+  "name": "minimalist-erc20-token-suite",
+  "version": "1.0.0",
+  "description": "ERC-20 Token Suite",
+  "main": "index.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.0"
+  }
+}
